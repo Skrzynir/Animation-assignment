@@ -336,7 +336,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7933609301257342471, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.99153656
+      value: 0.99980646
       objectReference: {fileID: 0}
     - target: {fileID: 7933609301257342471, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_LocalRotation.x
@@ -348,11 +348,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7933609301257342471, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.12982772
+      value: -0.01967342
       objectReference: {fileID: 0}
     - target: {fileID: 7933609301257342471, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: -2.255
       objectReference: {fileID: 0}
     - target: {fileID: 7933609301479979632, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_LocalPosition.x
@@ -609,6 +609,18 @@ PrefabInstance:
     - target: {fileID: 7933609301979625500, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_Name
       value: Rikr Character
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933609302111977675, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933609302111977676, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.020576842
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933609302111977676, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.66113645
       objectReference: {fileID: 0}
     - target: {fileID: 7933609302115697194, guid: 6482c8370c0521140a9770486a03ac11, type: 3}
       propertyPath: m_LocalPosition.x
